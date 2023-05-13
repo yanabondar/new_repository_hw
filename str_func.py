@@ -5,3 +5,5 @@ def upperer():
     print(upper_string)
 
 upperer()
+
+"""это я сделала для задания номер 3"""

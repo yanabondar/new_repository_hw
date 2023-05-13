@@ -1,3 +1,4 @@
+
 def upperer():
     """Функция получает строку и возвращает ее заглавными буквами"""
     string = input()
@@ -5,3 +6,13 @@ def upperer():
     print(upper_string)
 
 upperer()
+
+def upp_first():
+    """Функция делет заглавными первые буквы в слове"""
+    s = input()
+    print(s.title())
+
+upp_first()
+
+
+    
